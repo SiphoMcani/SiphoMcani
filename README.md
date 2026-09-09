@@ -1,16 +1,4 @@
-# Hi, I'm Sipho Mcani 👋
 
-### Clinical Associate | Data Science Student | Aspiring Data Scientist
-
-Welcome to my GitHub! I'm a **Clinical Associate** with a growing passion for **Data Science, Programming, Machine Learning, and Technology in Healthcare**.
-
-I enjoy working at the intersection of **healthcare and technology**, using data and programming to understand problems, find patterns, and develop practical solutions.
-
-🎓 **Bachelor of Clinical Medical Practice (BCMP)** — University of the Witwatersrand
-📊 **Honours in Data Science** — University of the Witwatersrand
-🏥 Clinical Healthcare Professional
-💻 Interested in Data Science, Machine Learning & Healthcare Technology
-📍 South Africa 🇿🇦
 
 ---
 
