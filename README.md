@@ -10,7 +10,7 @@ Welcome to my GitHub! 👋 I'm a Data Science student and aspiring Data Scientis
 
 I'm passionate about using technology and data to solve problems, discover patterns, build intelligent solutions, and turn data into meaningful insights.
 
-🎓 Honours in Data Science — University of the Witwatersrand
+🎓 Honours in Data Science - University of the Witwatersrand
 💻 Data Science | Machine Learning | Programming | Data Analytics
 🧠 Interested in Artificial Intelligence & Predictive Modelling
 🏥 Background in Healthcare
