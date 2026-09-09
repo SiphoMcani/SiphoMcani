@@ -75,7 +75,19 @@ A distributed machine learning project using **Apache Spark and MLlib** to build
 **Tools:** PySpark • MLlib • Python • Random Forest • Decision Tree
 
 ---
+## 📊 GitHub Statistics
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ShelltonMaleka&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShelltonMaleka&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShelltonMaleka&theme=tokyonight&hide_border=true"/>
+</p>
+
+
+---
 ## 🎯 What I'm Currently Learning
 
 * 🐍 Advanced Python
