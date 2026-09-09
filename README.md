@@ -4,14 +4,17 @@
 
 ## 🚀 About Me
 
-* 🏥 Clinical Associate with experience in healthcare and clinical environments
-* 📊 Currently developing my skills in **Data Science and Machine Learning**
-* 🐍 Learning and building projects with **Python**
-* 🗄️ Interested in **SQL, databases and data analytics**
-* 🤖 Exploring **Machine Learning and predictive modelling**
-* 📈 Interested in turning raw data into meaningful insights
-* 🧠 Passionate about combining **clinical knowledge with technology**
-* 💡 Building projects to strengthen my practical data science skills
+Data Science Student | Aspiring Data Scientist | Technology Enthusiast
+
+Welcome to my GitHub! 👋 I'm a Data Science student and aspiring Data Scientist with a background in healthcare and a strong interest in technology, programming, machine learning, and data analytics.
+
+I'm passionate about using technology and data to solve problems, discover patterns, build intelligent solutions, and turn data into meaningful insights.
+
+🎓 Honours in Data Science — University of the Witwatersrand
+💻 Data Science | Machine Learning | Programming | Data Analytics
+🧠 Interested in Artificial Intelligence & Predictive Modelling
+🏥 Background in Healthcare
+🇿🇦 Based in South Africa
 
 ---
 
